@@ -1,0 +1,5 @@
+version: "1.0.0"
+description: A vl53l7cx library for esp32 using the esp-idf framework.
+url: https://github.com/twistx77/V53L7CX-Library
+dependencies:
+  idf: ">=4.1"
